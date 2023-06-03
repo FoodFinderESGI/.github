@@ -17,7 +17,7 @@ Commencez en vous inscrivant sur notre plateforme FoodFinder, l'outil de recomma
 - Ajout de restaurants : En tant qu'utilisateur, vous avez la possibilité d'ajouter de nouveaux restaurants à l'outil FoodFinder en fournissant des informations détaillées telles que le nom, les menus, les photos, les prix, les horaires, etc. Les demandes d'ajout seront vérifiées et validées par un administrateur.
 
 - Avis des utilisateurs : Exprimez votre opinion en laissant un avis sur les restaurants que vous avez visités. Partagez votre expérience avec d'autres utilisateurs et contribuez à la communauté en fournissant des informations détaillées sur la qualité des repas, le service, l'ambiance, etc.
-- 
+
 - Interface Web/Mobile : Accédez à FoodFinder à partir de votre ordinateur ou de votre appareil mobile, avec une interface conviviale et intuitive pour une expérience utilisateur optimale.
 
 FoodFinder vous offre des fonctionnalités avancées pour vous aider à trouver les restaurants qui correspondent le mieux à vos besoins et préférences, que vous soyez un habitant local, un touriste ou tout simplement à la recherche d'une expérience culinaire unique.
