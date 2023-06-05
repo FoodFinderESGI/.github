@@ -26,6 +26,6 @@ FoodFinder vous offre des fonctionnalités avancées pour vous aider à trouver 
 
 Nous accueillons les contributions de toute personne intéressée à améliorer FoodFinder ! 
 
-Si vous avez des questions ou des problèmes, veuillez contacter notre équipe de support à l'adresse suivante : [e-mail support].
+Si vous avez des questions ou des problèmes, veuillez contacter notre équipe de support à l'adresse suivante : [e-mail support](foodfinderesgi@gmail.com).
 
 Ce projet est sous licence MIT - consultez le fichier LICENSE.md pour plus de détails.
