@@ -4,7 +4,7 @@ FoodFinder, l’outil de recommandation de restaurants personnalisé basé sur l
 
 ## Pour commencer
 
-Commencez en vous inscrivant sur notre plateforme FoodFinder, l'outil de recommandation de restaurants personnalisé. Explorez ensuite les recommandations basées sur l'analyse de sentiments des avis clients. Prenez des décisions éclairées en consultant les évaluations et les opinions des clients pour chaque restaurant recommandé. Profitez d'une expérience de découverte culinaire unique avec FoodFinder !
+Commencez en vous inscrivant sur notre plateforme FoodFinder, l'outil de recommandation de restaurants personnalisé. Explorez ensuite les recommandations basées sur vos préférences, vos habitudes et géolocalisation. Prenez des décisions éclairées en consultant les évaluations et les opinions des clients pour chaque restaurant recommandé. Profitez d'une expérience de découverte culinaire unique avec FoodFinder !
 
 ## Fonctionnalités 
 
